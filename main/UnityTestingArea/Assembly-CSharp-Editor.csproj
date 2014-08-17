@@ -250,6 +250,7 @@
      <None Include="Assets\Plugins\Android\everyplay\res\layout\everyplay_social_layout.xml" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 3.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Plugins\Android\everyplay\res\values\everyplay_colors.xml" />
      <None Include="Assets\Plugins\Android\everyplay\res\layout\everyplay_sidemenu.xml" />
      <None Include="Assets\Plugins\Android\everyplay\res\layout\everyplay_video_header.xml" />
@@ -370,6 +371,8 @@
       <Project>{8F485EAB-A0D7-B086-666B-12768D38C3C0}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
       <Project>{23517001-CF2D-1763-DB74-A1401288F260}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-CSharp.csproj">
+      <Project>{F52CEDCC-C1BB-1560-3853-A9AF1801B654}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

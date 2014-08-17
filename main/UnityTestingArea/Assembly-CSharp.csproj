@@ -46,6 +46,26 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\GoogleMobileAds\Api\AdFailedToLoadEventArgs.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Api\AdPosition.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Api\AdRequest.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Api\AdSize.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Api\BannerView.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Api\Gender.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Api\InterstitialAd.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Common\DummyClient.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Common\IAdListener.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Common\IGoogleMobileAdsBannerClient.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Common\IGoogleMobileAdsInterstitialClient.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Platforms\Android\AdListener.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Platforms\Android\AndroidBannerClient.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Platforms\Android\AndroidInterstitialClient.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Platforms\Android\Utils.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Platforms\GoogleMobileAdsClientFactory.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Platforms\iOS\Externs.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Platforms\iOS\IOSBannerClient.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Platforms\iOS\IOSInterstitialClient.cs" />
+     <Compile Include="Assets\GoogleMobileAds\Platforms\iOS\MonoPInvokeCallbackAttribute.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\EquipItems.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\EquipRandomItem.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\UICursor.cs" />
@@ -870,6 +890,7 @@
      <None Include="Assets\Plugins\Android\everyplay\res\layout\everyplay_social_layout.xml" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 3.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Plugins\Android\everyplay\res\values\everyplay_colors.xml" />
      <None Include="Assets\Plugins\Android\everyplay\res\layout\everyplay_sidemenu.xml" />
      <None Include="Assets\Plugins\Android\everyplay\res\layout\everyplay_video_header.xml" />

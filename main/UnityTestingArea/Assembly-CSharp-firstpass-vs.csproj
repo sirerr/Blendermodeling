@@ -127,6 +127,7 @@
      <None Include="Assets\Plugins\Android\everyplay\res\layout\everyplay_social_layout.xml" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 3.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Plugins\Android\everyplay\res\values\everyplay_colors.xml" />
      <None Include="Assets\Plugins\Android\everyplay\res\layout\everyplay_sidemenu.xml" />
      <None Include="Assets\Plugins\Android\everyplay\res\layout\everyplay_video_header.xml" />

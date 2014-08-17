@@ -10,7 +10,7 @@ public class FollowSwitch : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 	
-		flowerobj = GameObject.Find("Flower");
+//		flowerobj = GameObject.Find("Flower");
 
 	}
 	
