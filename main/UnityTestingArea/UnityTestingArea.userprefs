@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\GEN\GEN-Unity\Assets\Scripts\EnemyAI.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\GEN\GEN-Unity\Assets\Scripts\ExtraAbilities\extraabilities.cs">
     <Files>
-      <File FileName="..\..\..\GEN\GEN-Unity\Assets\Scripts\EnemyAI.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\GEN\GEN-Unity\Assets\Scripts\ExtraAbilities\extraabilities.cs" Line="87" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
