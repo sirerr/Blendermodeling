@@ -1,0 +1,24 @@
+# Written by MakeHuman 1.0.0
+version v1.0.0
+tags Tester
+macro Weight 0.500000
+macro Gender 1.000000
+macro Age 0.500000
+macro Height 0.500000
+macro Asian 0.333333
+macro African 0.333333
+macro Caucasian 0.333333
+macro Muscle 0.500000
+macro BodyProportions 0.500000
+gendered BreastFirmness 0.500000
+gendered BreastSize 0.500000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+eyebrows Eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+clothesHideFaces True
+face head-scale-depth-less-more -0.490000
+face head-trans-down-up 0.046000
+face head-invertedtriangular 1.000000
+skinMaterial skins/default.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+skeleton game.json 
